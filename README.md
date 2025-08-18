@@ -1,6 +1,6 @@
 # Real-Time Driver Drowsiness Detection
 
-![Project Demo GIF](assets/drowsiness_detection.gif)
+![Project Demo GIF](assets/drowsiness-detection.gif)
 
 This project is a real-time computer vision system designed to enhance road safety by detecting driver drowsiness and issuing an alert. It utilizes a hybrid deep learning model to analyze a live video feed from a webcam.
 
