@@ -44,3 +44,27 @@ To get this project up and running on your local machine, follow these steps.
 ```bash
 git clone [https://github.com/AryanParishwad/Driver-Drowsiness-Detection.git](https://github.com/AryanParishwad/Driver-Drowsiness-Detection.git)
 cd Driver-Drowsiness-Detection
+```
+
+**3.Install Dependencies**
+This project uses several Python libraries. You can install them using pip and the requirements.txt file.
+
+```bash
+pip install -r requirements.txt
+```
+
+-    (Note: You can create the requirements.txt file by running python -m pip freeze > requirements.txt in your project's terminal.)
+
+**4. Download the Dataset**
+The NTHU dataset used for training is too large to be included in this repository. Please download it from its official source and place it in the project directory as instructed by the code.
+
+**5. Run the Application**
+Execute the main Python script to start the real-time detection from your webcam.
+
+Bash
+```bash
+python main.py
+```
+
+**📜 License**
+This project is licensed under the MIT License. See the LICENSE file for details.
